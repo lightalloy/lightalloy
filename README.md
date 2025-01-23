@@ -15,3 +15,4 @@ I am a software developer (backend, Ruby) and an educator.
 - [Курс Ruby Newbie](https://github.com/ruby-newbie/lessons) (2024)
 - [Workshop "Good old code"](https://thinknetica.com/pro/workshop_good_old_code) (2023)
 - [Доклад "Жизнь с легаси"](https://www.youtube.com/watch?v=lOUXKishf_o) (2023)
+- [Доклад "Python vs Ruby"](https://youtu.be/mGxslHrOJ58?si=0sEpzMUnrCVKEPgE) (2020)
