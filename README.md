@@ -8,7 +8,6 @@ I am a software developer (backend, Ruby) and an educator.
 - [телеграм-канал @anna_codes](https://t.me/anna_codes)
 - [linkedin](https://www.linkedin.com/in/lightalloy/)
 - [хабр-карьера](https://career.habr.com/lightalloy)
-- [резюме](https://litealloy.ru/cv/cv.pdf)
 
 ### Talks and educational projects:
 
