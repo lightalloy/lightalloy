@@ -11,6 +11,7 @@ I am a software developer (backend, Ruby) and an educator.
 
 ### Talks and educational projects:
 
+- [Книжный клуб "Слоёные рельсы"][https://t.me/anna_codes/293] (2025)
 - [Курс Ruby Newbie](https://github.com/ruby-newbie/lessons) (2024)
 - [Workshop "Good old code"](https://thinknetica.com/pro/workshop_good_old_code) (2023)
 - [Доклад "Жизнь с легаси"](https://www.youtube.com/watch?v=lOUXKishf_o) (2023)
